@@ -11,7 +11,7 @@ This project focuses on **Mine Detection using Machine Learning (ML)**. It invol
 
 ## Requirements
 - Python 3.12
-- Libraries: `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`, `catboost`, `uv`
+- Libraries: `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`, `catboost`, `uv`,  `ucimlrepo`
 
 ## How to Run
 
